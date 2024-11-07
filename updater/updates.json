@@ -1,6 +1,11 @@
 {
-    "version": "1.0.1",
-    "notes": "Bug fixes and improvements",
-    "pub_date": "2024-11-06T12:00:00Z",
-    "url": "https://github.com/ridhis23/EzTerminal/releases"
+  "version": "1.0.1",
+  "notes": "Bug fixes and performance improvements.",
+  "pub_date": "2024-11-06T12:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "Z2BBELJ8+KyI06a++p3xMvkDYNE587ln7V+BchFTRe8i6ypcLQ8Dcyug+Zkq7C5ckAUay5mMw9+NqXlpnGk3h3co5uUlhcWb5JvnFgKsdntwLaM20ed7R/O5/lgoaB+Y4ENnQePZHeciZcAYo/SobZZY4WW3IGANcYLqqxEzp+EtQIXOyD1uLa6tSim2RFx6zCKC4e2Y3TzMCZ6I+U95LaeXImIW8PTAWQWqm4GEy+Gtukgi4QE4/GNmK97IiGRLbYBWLTtbVCC9/hx4B5nrY6bM9p5J2P5QOqJ2IiwpFh4qCgwIiXARAHe3wCk5SW3Wl+scM3sPdUMip/a6KakFyg==",
+      "url": "https://example.com/path/to/your/app.dmg"
+    }
+  }
 }
