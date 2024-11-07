@@ -4,8 +4,8 @@
   "pub_date": "2024-11-06T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "Z2BBELJ8+KyI06a++p3xMvkDYNE587ln7V+BchFTRe8i6ypcLQ8Dcyug+Zkq7C5ckAUay5mMw9+NqXlpnGk3h3co5uUlhcWb5JvnFgKsdntwLaM20ed7R/O5/lgoaB+Y4ENnQePZHeciZcAYo/SobZZY4WW3IGANcYLqqxEzp+EtQIXOyD1uLa6tSim2RFx6zCKC4e2Y3TzMCZ6I+U95LaeXImIW8PTAWQWqm4GEy+Gtukgi4QE4/GNmK97IiGRLbYBWLTtbVCC9/hx4B5nrY6bM9p5J2P5QOqJ2IiwpFh4qCgwIiXARAHe3wCk5SW3Wl+scM3sPdUMip/a6KakFyg==",
-      "url": "https://example.com/path/to/your/app.dmg"
+      "signature": "rfB5VhwxvUStkbBAk+S9UmgAcL2DmXFgpUDAj4xMJD5qcsilMMPmQuIgIKOUqJ0Igr6yhj/fOAcg+4/0j0tSo77Nw7hbkw+T0XBvQi8niskztgQc7PfesAo2XxWjWzDDkPsFNX607eGc0jK4QmCo3KP2DhBg2YT8duI6AFDONneX5nRMYKMxSSIAR0cvMLte6mQEzMZgTqHI0ARrddBq21l9VxlCF8YyhtzRN54yjbsT9kwPIzsEo5QDZt9HeqMV0xKH8oDbp08nz3uG+uyspWvUUldFnAC+uZfOnCBcshFa/D5XK9PcWRSiKEgVtYbphOy9J35aVbmbRHQR4YDRrQ==",
+      "url": "https://github.com/ridhis23/EzTerminal/releases/download/v1.0.0/EzTerminal_1.0.0_x64.dmg"
     }
   }
 }
